@@ -1,0 +1,10 @@
+# Pinned for Streamlit Cloud compatibility
+streamlit==1.37.1
+tensorflow-cpu==2.15.1
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+Pillow==10.4.0
+matplotlib==3.9.0
+protobuf<5
+h5py==3.10.0
